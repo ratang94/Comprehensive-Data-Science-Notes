@@ -1,5 +1,6 @@
-💡 Comprehensive Data Science Notes
-It contains Data Science Notes collaborated from various Data Science Experts. Happy Learning !!
+## COMPREHENSIVE DATA SCIENCE NOTES
+
+## It contains Data Science Notes collaborated from various Data Science Experts. Happy Learning !!
 
 
 💡 Important Concepts:
